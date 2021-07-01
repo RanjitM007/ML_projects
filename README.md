@@ -10,8 +10,8 @@ A subset of machine learning is closely related to computational statistics, whi
 
 
 
-#project__1 
-#Credit card Defult 
+# project__1 
+# Credit card Defult 
 
 ![image](https://github.com/RanjitM007/Images/blob/main/Surviving-a-Credit-Card-Default-thumb-nail.png?raw=true)
 
