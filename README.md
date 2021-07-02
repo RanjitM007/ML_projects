@@ -24,3 +24,11 @@ Credit card default happens when you have become severely delinquent on your cre
 ![Agriculture](https://github.com/RanjitM007/Images/blob/main/agri.jpg?raw=true)
 
 Machine learning in agriculture used to improve the productivity and quality of the crops in the agriculture sector. The seed retailers use this agriculture technology to churn the data to create better crops. While the pest control companies are using them to identify the various bacteria's, bugs and vermins.
+
+
+# Project 3
+# Avacode Classification
+![Avacode](https://github.com/RanjitM007/Images/blob/main/avacode%40c.jpg?raw=true)
+
+The avocado (Persea americana), a tree likely originating from south-central Mexico, is classified as a member of the flowering plant family Lauraceae. The fruit of the plant, also called an avocado (or avocado pear or alligator pear), is botanically a large berry containing a single large seed.
+
