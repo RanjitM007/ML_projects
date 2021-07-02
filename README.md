@@ -16,3 +16,11 @@ A subset of machine learning is closely related to computational statistics, whi
 ![image](https://github.com/RanjitM007/Images/blob/main/Surviving-a-Credit-Card-Default-thumb-nail.png?raw=true)
 
 Credit card default happens when you have become severely delinquent on your credit card payments. Default is a serious credit card status that affects not only your standing with that credit card issuer but also your credit standing in general and your ability to get approved for other credit-based services.
+
+
+# Project@2
+# Agriculture classification
+
+![Agriculture](https://github.com/RanjitM007/Images/blob/main/agri.jpg?raw=true)
+
+Machine learning in agriculture used to improve the productivity and quality of the crops in the agriculture sector. The seed retailers use this agriculture technology to churn the data to create better crops. While the pest control companies are using them to identify the various bacteria's, bugs and vermins.
